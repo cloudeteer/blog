@@ -1,6 +1,6 @@
 ## STUFF
 
-![cdt](https://github.com/cloudeteer/blog/raw/master/header_13_logo_ORIG.png){:height="50%" width="50%"}
+![cdt](https://github.com/cloudeteer/blog/raw/master/CDT-Logo_300x300.png){:height="50%" width="50%"}
 
 Secure. Agile. Innovative.
 
