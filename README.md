@@ -1,6 +1,6 @@
 ## CLOUDETEER
 
-You wanna know more about us? [website](https://cloudeteer.de) 
+Secure. Agile. Innovative.
 
 ### Support or Contact
 
