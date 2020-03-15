@@ -1,1 +1,21 @@
 theme: jekyll-theme-cayman
+
+# Site Settings
+locale                   : "de-DE"
+title                    : "CLOUDETEER BLOG"
+title_separator          : "-"
+name                     : &name "Cloudeteer GmbH"
+description              : &description "All about Multi Cloud architectures & modern operations"
+url                      : https://cloudeteer.github.io
+baseurl                  : "/blog"
+breadcrumbs              : false # true, false (default)
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+
+# Social Sharing
+twitter:
+  username               : &twitter "cloudeteer"
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
