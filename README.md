@@ -1,4 +1,4 @@
-## STUFF
+## PLAN. BUILD. RUN. OPTIMIZE.
 
 ![cdt](https://github.com/cloudeteer/blog/raw/master/CDT-Logo_300x300.png){:height="50%" width="50%"}
 
