@@ -4,7 +4,7 @@
 
 Secure. Agile. Innovative.
 
-### Support or Contact
+### Contact
 
 You wanna know more about us? [website](https://cloudeteer.de) 
 
