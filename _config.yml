@@ -19,3 +19,41 @@ facebook:
   username               :
   app_id                 :
   publisher              :
+
+    # Site Author
+author:
+  name             : "Cloudeteer GmbH"
+  avatar           : # "profile.png"
+  bio              : "https://cloudeteer.de/ueber_uns.php"
+  location         : "Germany, Hamburg"
+  employer         :
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : 
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : "https://www.facebook.com/cloudeteergmbh/"
+  foursquare       :
+  github           : "cloudeteer"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : 
+  lastfm           :
+  linkedin         :
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : "cloudeteer"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
