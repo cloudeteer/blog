@@ -12,6 +12,6 @@ Mein Text
 
 ### Contact
 
-devops <at> cloudeteer.de
+devops @ cloudeteer.de
 
 Secure. Agile. Innovative.
