@@ -2,11 +2,9 @@
 
 ## PLAN. BUILD. RUN. OPTIMIZE.
 
-### Header 3
+### What is the Multi-cloud?
 
 ```
-What is the Multi-cloud?
-
 The future of business services relies on cloud computing & storage. 
 The mass transition has already begun. Organizations across all industries, 
 regardless of size, have concluded that many of their fundamental challenges can 
