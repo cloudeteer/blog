@@ -7,8 +7,3 @@
 You wanna know more about us? [Visit us..](https://cloudeteer.de) 
 
 Secure. Agile. Innovative.
-
----
-layout: post
-title: Blogging Like a Hacker
----
