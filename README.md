@@ -39,4 +39,4 @@ Based on well-known Open Source components used by cloud-native companies.
 
 SRE @ cloudeteer.de
 
-Secure. Agile. Innovative.
+**Secure. Agile. Innovative.**
