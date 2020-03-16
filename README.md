@@ -28,6 +28,13 @@ their own, companies are now turning to new providers of managed cloud services 
 
 * * *
 
+### Our OPS.Stack
+
+In regards to several mid-/large-sized cloud projects, we have developed our own multi cloud operational-stack.
+Based on well-known Open Source components used by cloud-native companies.
+
+![PDF Download](https://cloudeteer.de/i/CDT_OPS.STACK_Overview_EN.pdf)
+
 ### Contact
 
 SRE @ cloudeteer.de
