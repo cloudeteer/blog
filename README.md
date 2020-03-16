@@ -4,8 +4,9 @@
 
 ### What is the Multi-cloud?
 
-```
-The future of business services relies on cloud computing & storage. 
+* * *
+
+> The future of business services relies on cloud computing, storage & micro-services. 
 The mass transition has already begun. Organizations across all industries, 
 regardless of size, have concluded that many of their fundamental challenges can 
 be handled much better by cloud platforms. Many of them are gradually outsourcing 
@@ -24,7 +25,6 @@ increases the storage space and computing power available compared to normal clo
 This added flexibility also leads to that complexity, between trying to handle multiple providers, 
 keep up with various regulations, maximize benefit, and negate loss. Instead of managing everything on 
 their own, companies are now turning to new providers of managed cloud services, such as CLOUDETEER. 
-```
 
 * * *
 
